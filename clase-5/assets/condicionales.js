@@ -37,3 +37,7 @@ personGenre === "mujer"? console.log("Es una mujer"):console.log("Es un hombre")
 let personaAge =Number(prompt('Ingrese su edad'))
 
 personaAge > 18? console.log("Mayor a 18"): console.log("Menor a 18")
+
+let isHungry =false
+
+isHungry ? console.log("Tenemos hambre") : console.log("Tenemos sueñito")
