@@ -8,4 +8,7 @@ titulos.forEach(element=>{
 })
     console.log(titulos[0].classList.contains("titulos2"))
 
-    titulos[1].classList.toggle("titulo")
+    titulos[1].classList.toggle("titulos")
+    
+    console.warn('feliz con lo que hago')
+    
