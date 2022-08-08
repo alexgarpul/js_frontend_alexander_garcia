@@ -1,4 +1,8 @@
-.titulo{
-    color: blueviolet;
+.titulos{
+    color: rgba(185, 141, 226, 0.74);
     font-size: 5rem;
+}
+
+.titulos2{
+    color: blue;
 }
