@@ -5,3 +5,4 @@ titulo.style.color="red"
 document.body.appendChild(titulo)
 
 console.log(titulo)
+
